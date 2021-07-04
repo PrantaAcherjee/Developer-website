@@ -4,6 +4,7 @@ body{
 }
 h1{font-size: 50px;
 }
+h2{font-size: 40px;}
 .prothom{color: coral;}
  .flexible-container{
     display: flex;
@@ -34,4 +35,28 @@ padding: 5%;}
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.experience-item{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.experience-area{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+}
+#pranta-full{
+    border-left: 10px solid;
+
+    border-inline-color: skyblue ;
+    
+
+
+}
+#pranta-part{
+    border-left: 10px solid;
+    border-color: lightseagreen;
 }
