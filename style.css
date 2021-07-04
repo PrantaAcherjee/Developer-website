@@ -26,3 +26,12 @@ padding: 5%;}
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
 }
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.pkumar{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
