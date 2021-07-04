@@ -5,7 +5,7 @@ body{
 h1{font-size: 50px;
 }
 .prothom{color: coral;}
-section{
+ .flexible-container{
     display: flex;
 }
 .half-width{width: 50%;
@@ -26,7 +26,7 @@ padding: 5%;}
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
